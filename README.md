@@ -24,14 +24,17 @@ require 'paint'
 
 ## Usage Instruction
 
+Change directory to where the files exist, as this game requires a csv file, enter terminal and input the following:
+
+```
 $ vi Maze.csv
 Name,Score
 ~                                                                       
 ~
 :wq
 $
-
-Change directory to where the files exist, and type $ruby start.rb in terminal
+```
+and type $ruby start.rb in terminal
 
 ## Design Journery/Process
 
