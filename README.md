@@ -24,6 +24,13 @@ require 'paint'
 
 ## Usage Instruction
 
+$ vi Maze.csv
+Name,Score
+~                                                                       
+~
+:wq
+$
+
 Change directory to where the files exist, and type $ruby start.rb in terminal
 
 ## Design Journery/Process
