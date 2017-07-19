@@ -54,6 +54,7 @@ Flow Chart
                     Print out highscore
                     
 
+<img src="http://i.imgur.com/Kdyg93a.png" >
 
 
 
